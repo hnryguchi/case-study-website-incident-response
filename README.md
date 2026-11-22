@@ -4,7 +4,7 @@
 
 Investigação e limpeza de um site institucional em WordPress que estava comprometido havia cerca de 11 meses sem que ninguém percebesse. O site servia páginas de golpe ao Google e roubava dados digitados em formulários. Tudo foi resolvido no mesmo dia, sem tirar o site do ar.
 
-Feito durante meu trabalho em uma consultoria ambiental. Apenas documentação: sem domínios, nomes de arquivos maliciosos, credenciais ou identificadores de infraestrutura.
+Feito durante meu trabalho em uma consultoria ambiental. O incidente foi no site institucional (WordPress, em hospedagem compartilhada); o [portal de conformidade ambiental](https://github.com/hnryguchi/case-study-environmental-portal) é um sistema separado e não foi afetado. Apenas documentação: sem domínios, nomes de arquivos maliciosos, credenciais ou identificadores de infraestrutura.
 
 > O site e a hospedagem pertencem ao empregador. Este repositório descreve o método e as decisões, não o ambiente. Veja [O que foi omitido intencionalmente](#o-que-foi-omitido-intencionalmente).
 

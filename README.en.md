@@ -4,7 +4,7 @@
 
 Investigation and clean-up of a corporate WordPress website that had been compromised for about 11 months without anyone noticing. The site served scam pages to Google and stole data typed into its forms. It was fixed the same day, with no downtime.
 
-Done during my work at an environmental consultancy. Documentation only: no domains, malicious file names, credentials or infrastructure identifiers.
+Done during my work at an environmental consultancy. The incident was on the corporate website (WordPress on shared hosting); the [environmental compliance portal](https://github.com/hnryguchi/case-study-environmental-portal) is a separate system and was not affected. Documentation only: no domains, malicious file names, credentials or infrastructure identifiers.
 
 > The website and hosting belong to the employer. This repository describes the method and the decisions, not the environment. See [What is intentionally omitted](#what-is-intentionally-omitted).
 
